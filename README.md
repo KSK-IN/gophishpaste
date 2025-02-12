@@ -21,6 +21,8 @@ This Python script allows you to copy email templates, landing pages, and SMTP s
 
 3.Install the tabulate library for pretty-printed tables:
 ```
+pip install sqlite3
+pip install tabulate
 ```
 
 ```
