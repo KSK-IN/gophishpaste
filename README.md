@@ -24,7 +24,7 @@ This Python script allows you to copy email templates, landing pages, and SMTP s
 ```
 
 ```
-git clone
+git clone https://github.com/KSK-IN/gophishpaste.git
 
 ```
 
