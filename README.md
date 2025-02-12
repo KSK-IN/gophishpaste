@@ -27,8 +27,11 @@ pip install tabulate
 
 ```
 git clone https://github.com/KSK-IN/gophishpaste.git
-
+cd gophishpaste
+python3 gophishpaste.py
 ```
+
+>Note: Please clone repository in gophish sqllite db location
 
 **Output**
 
