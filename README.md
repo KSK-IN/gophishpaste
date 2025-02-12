@@ -1,6 +1,7 @@
 # Gophishpaste
 
 This Python script allows you to copy email templates, landing pages, and SMTP sending profiles between different users in a GoPhish SQLite database. It provides a command-line interface for selecting and transferring these resources efficiently.
+
 **Features**
 
 1.Copy email templates from one user to another.
